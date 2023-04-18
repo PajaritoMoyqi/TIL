@@ -16,11 +16,11 @@
 
 #### 앞에 있을수록 뒤의 것보다 더 집중했거나 (집중한 정도가 비슷한 경우) 먼저 시작했다는 의미를 갖습니다.
 
-11/22 - (완)DJango 기초, (완)Nginx 기초
+11/22 - (완)~~DJango 기초~~, (완)~~Nginx 기초~~
 
-12/22 - React 기초
+12/22 - ~~React 기초~~
 
-1/23 - (완)React 기초, Javascript 심화
+1/23 - (완)~~React 기초~~, Javascript 심화
 
 2/23 - Hardware 기초, Javascript 심화
 
