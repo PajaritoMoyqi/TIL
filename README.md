@@ -8,25 +8,25 @@
 
 타인도 볼만한 글로 정리하는 작업은 글쓰기용 비공개 repo에서 이루어지며,
 
-해당 글들은 완성 후 리뷰가 끝나면 **제 개인 블로그 https://pp-blog.com에 올라갑니다.**
+해당 글들은 완성 후 리뷰가 끝나면 **제 [개인 블로그](https://pp-blog.com, "작은새 블로그")에 올라갑니다.**
 
-===
+***
 
 ### Tracking
 
 #### 앞에 있을수록 뒤의 것보다 더 집중했거나 (집중한 정도가 비슷한 경우) 먼저 시작했다는 의미를 갖습니다.
 
-11/22 - (완)~~DJango 기초~~, (완)~~Nginx 기초~~
+11/2022 - (완)~~DJango 기초~~, (완)~~Nginx 기초~~
 
-12/22 - ~~React 기초~~
+12/2022 - ~~React 기초~~
 
-1/23 - (완)~~React 기초~~, Javascript 심화
+1/2023 - (완)~~React 기초~~, Javascript 심화
 
-2/23 - Hardware 기초, Javascript 심화
+2/2023 - Hardware 기초, Javascript 심화
 
-3/23 - Circuit 기초, Hardware 기초
+3/2023 - Circuit 기초, Hardware 기초
 
-4/23 - Circuit 기초, 반도체 전공 기초
+4/2023 - Circuit 기초, 반도체 전공 기초
 
 #### Now I'm studying,
 
@@ -37,3 +37,21 @@ Architecture : Circuit, Hardware, System
 #### Especially,
 
 Architecture - Circuit (Digital Logic Circuit), 반도체 전공 기초
+
+***
+
+이상적인 공부 계획
+
+5월 중순: Circuit 완강, Hardware/System 시작, Javascript 진행(시간 날 때)
+
+6월 말: Circuit 정리 완료
+
+7월 말: Hardware/System 정리 완료
+
+8월 중순: System 실습 완료
+
+9월 초: Compiler 제작
+
+10월 중순: Javascript 완료
+
+11월 중순: TypeScript 완료
