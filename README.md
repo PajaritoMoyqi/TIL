@@ -4,7 +4,7 @@
 
 따라서 **README.md**에는 제가 작년 11월 경부터 공부하기 시작한 것들의 개괄들을 적어나갈 것입니다.
 
-**github issue 및 project**를 통해 상세한 공부 계획을 기록해나갈 계획입니다.
+[**github issue**](https://github.com/PajaritoMoyqi/TIL/issues) 및 [**project**](https://github.com/users/PajaritoMoyqi/projects/6)를 통해 상세한 공부 계획을 기록해나갈 계획입니다.
 
 타인도 볼만한 글로 정리하는 작업은 글쓰기용 비공개 repo에서 이루어지며,
 
