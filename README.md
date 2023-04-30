@@ -24,9 +24,11 @@
 
 2/2023 - Hardware 기초, Javascript 심화
 
-3/2023 - Circuit 기초, Hardware 기초
+3/2023 - (완)~~Circuit 기초~~, Hardware 기초
 
-4/2023 - Circuit 기초, 반도체 전공 기초
+4/2023 - (완)~~Circuit 기초~~, (완)~~반도체 전공 기초~~, Hardware 기초
+
+5/2023 - Circuit 정리
 
 #### Now I'm studying,
 
@@ -42,7 +44,7 @@ Architecture - Circuit (Digital Logic Circuit), 반도체 전공 기초
 
 이상적인 공부 계획
 
-5월 중순: Circuit 완강, Hardware/System 시작, Javascript 진행(시간 날 때)
+5월 중순: ~~Circuit 완강~~, ~~Hardware/System 시작~~, Javascript 진행(시간 날 때)
 
 6월 말: Circuit 정리 완료
 
@@ -50,8 +52,10 @@ Architecture - Circuit (Digital Logic Circuit), 반도체 전공 기초
 
 8월 중순: System 실습 완료
 
-9월 초: Compiler 제작
+9월 초: Compiler 제작, OS 개발 시작
 
 10월 중순: Javascript 완료
 
 11월 중순: TypeScript 완료
+
+12월 말 : OS 개발 완료
