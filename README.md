@@ -28,7 +28,7 @@
 
 4/2023 - (완)~~Circuit 기초~~, (완)~~반도체 전공 기초~~, Hardware 기초
 
-5/2023 - Circuit 정리
+5/2023 - (완)~~Assembly 강의~~, Hardware 기초
 
 #### Now I'm studying,
 
@@ -38,7 +38,7 @@ Architecture : Circuit, Hardware, System
 
 #### Especially,
 
-Architecture - Circuit (Digital Logic Circuit), 반도체 전공 기초
+Architecture - Hardware
 
 ***
 
