@@ -18,27 +18,29 @@
 
 11/2022 - (완)~~DJango 기초~~, (완)~~Nginx 기초~~
 
-12/2022 - ~~React 기초~~
+12/2022 - (완)~~React 기초~~
 
 1/2023 - (완)~~React 기초~~, Javascript 심화
 
-2/2023 - Hardware 기초, Javascript 심화
+2/2023 - (완)~~Hardware 기초~~, Javascript 심화
 
-3/2023 - (완)~~Circuit 기초~~, Hardware 기초
+3/2023 - (완)~~Circuit 기초~~, (완)~~Hardware 기초~~
 
-4/2023 - (완)~~Circuit 기초~~, (완)~~반도체 전공 기초~~, Hardware 기초
+4/2023 - (완)~~Circuit 기초~~, (완)~~반도체 전공 기초~~, (완)~~Hardware 기초~~
 
-5/2023 - (완)~~Assembly 강의~~, Hardware 기초
+5/2023 - (완)~~Assembly 강의~~, (완)~~Hardware 기초~~, 자료구조/알고리즘
 
 #### Now I'm studying,
 
 Javascript : Javascript, TypeScript
 
-Architecture : Circuit, Hardware, System
+C : C
+
+Architecture : Circuit, Hardware, System, Data Structure, Algorithm
 
 #### Especially,
 
-Architecture - Hardware
+Architecture - System
 
 ***
 
