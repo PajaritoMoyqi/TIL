@@ -28,7 +28,9 @@
 
 4/2023 - (완)~~Circuit 기초~~, (완)~~반도체 전공 기초~~, (완)~~Hardware 기초~~
 
-5/2023 - (완)~~Assembly 강의~~, (완)~~Hardware 기초~~, 자료구조/알고리즘
+5/2023 - (완)~~Assembly 강의~~, (완)~~Hardware 기초~~, C 기초, 자료구조/알고리즘
+
+
 
 #### Now I'm studying,
 
