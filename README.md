@@ -32,6 +32,8 @@
 
 6/2023 - C기초, 자료구조/알고리즘
 
+7/2023 - Arm 아키텍처
+
 
 #### Now I'm studying,
 
@@ -43,7 +45,7 @@ Architecture : Circuit, Hardware, System, Data Structure, Algorithm
 
 #### Especially,
 
-Architecture - System
+Language - C and DS w/Algorithm
 
 ***
 
