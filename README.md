@@ -38,6 +38,8 @@
 
 11/2023 - C기초, 자료구조/알고리즘 정리
 
+12/2023 - 자료구조/알고리즘 정리
+
 #### Now I'm studying,
 
 Javascript : Javascript, TypeScript
