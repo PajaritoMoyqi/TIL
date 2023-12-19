@@ -28,33 +28,31 @@
 
 4/2023 - (완)~~Circuit 기초~~, (완)~~반도체 전공 기초~~, (완)~~Hardware 기초~~
 
-5/2023 - (완)~~Assembly 강의~~, (완)~~Hardware 기초~~, C 기초, ~~자료구조/알고리즘~~
+5/2023 - (완)~~Assembly 강의~~, (완)~~Hardware 기초~~, (완)~~C 기초~~, ~~자료구조/알고리즘~~
 
-6/2023 - C기초, ~~자료구조/알고리즘~~
+6/2023 - (완)~~C 기초~~, ~~자료구조/알고리즘~~
 
-7/2023 - (완)~~Arm 아키텍처~~, C기초, ~~자료구조/알고리즘~~
+7/2023 - (완)~~Arm 아키텍처~~, ~~C 기초~~, ~~자료구조/알고리즘~~
 
-8/2023 - C기초, ~~자료구조/알고리즘~~
+8/2023 - (완)~~C 기초~~, ~~자료구조/알고리즘~~
 
-11/2023 - C기초, 자료구조/알고리즘 정리
+11/2023 - (완)~~C 기초~~, (완)~~자료구조/알고리즘 정리~`
 
-12/2023 - 자료구조/알고리즘 정리
+12/2023 - (완)~~자료구조/알고리즘 정리~~, 반도체 정리
 
 #### Now I'm studying,
 
-Javascript : Javascript, TypeScript
-
 C : C
 
-Architecture : Circuit, Hardware, System, Data Structure, Algorithm
+Architecture : Semiconductor, Circuit, Hardware, System, Data Structure, Algorithm
 
 #### Especially,
 
-Language - C and DS w/Algorithm
+Architecture - Semiconductor
 
 ***
 
-이상적인 공부 계획(틀어진 것 같다...)
+2023년 이상적인 공부 계획(틀어진 것 같다...)
 
 5월 중순: ~~Circuit 완강~~, ~~Hardware/System 시작~~, Javascript 진행(시간 날 때)
 
