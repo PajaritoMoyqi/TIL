@@ -38,17 +38,17 @@
 
 11/2023 - (완)~~C 기초~~, (완)~~자료구조/알고리즘 정리~`
 
-12/2023 - (완)~~자료구조/알고리즘 정리~~, 반도체 정리
+12/2023 - (완)~~자료구조/알고리즘 정리~~, (완)~~반도체 공정 정리~~
 
 #### Now I'm studying,
 
 C : C
 
-Architecture : Semiconductor, Circuit, Hardware, System, Data Structure, Algorithm
+Architecture : Hardware, Algorithm
 
 #### Especially,
 
-Architecture - Semiconductor
+Architecture - Hardware
 
 ***
 
