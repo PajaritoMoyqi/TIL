@@ -40,17 +40,17 @@
 
 12/2023 - (완)~~자료구조/알고리즘 정리~~, (완)~~반도체 공정 정리~~
 
-1/2023 - 아키텍처 정리
+1/2023 - Computer Structure 정리
 
 #### Now I'm studying,
 
 C : C
 
-Architecture : Hardware, Algorithm
+Computer : Computer Structure, Algorithm
 
 #### Especially,
 
-Architecture - Hardware
+Computer - Computer Structure
 
 ***
 
@@ -71,6 +71,12 @@ Architecture - Hardware
 11월 중순: TypeScript 완료
 
 12월 말 : OS 개발 완료
+
+***
+
+2024년 이상적인 공부 계획(최초 작성일 : 24. 1. 8)
+
+1월-3월 : Computer Structure 정리 완료
 
 
 ### 메모
