@@ -64,19 +64,28 @@ Computer - Computer Structure
 
 8월 중순: System 실습 완료
 
-9월 초: Compiler 제작, OS 개발 시작
+9월 초: Compiler 제작, OS 실습 시작
 
 10월 중순: Javascript 완료
 
 11월 중순: TypeScript 완료
 
-12월 말 : OS 개발 완료
+12월 말 : OS 실습 완료
 
 ***
 
 2024년 이상적인 공부 계획(최초 작성일 : 24. 1. 8)
 
-1월-3월 : Computer Structure 정리 완료
+1월-3월 : ~~Computer Structure 정리 완료~~
+
+Computer Structure 자료 제작
+
+~~OS 기초 정리 완료 (1 month)~~
+
+OS 실습 완료 (2 months)
+
+Network 기초 정리 완료 (1 month)
+
 
 
 ### 메모
