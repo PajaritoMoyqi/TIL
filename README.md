@@ -40,7 +40,11 @@
 
 12/2023 - (완)~~자료구조/알고리즘 정리~~, (완)~~반도체 공정 정리~~
 
-1/2023 - (완)~~Computer Structure 정리~~, OS 기초 정리
+1/2023 - (완)~~Computer Structure 정리~~, (완)~~OS 기초 정리~~
+
+2/2023 - (완)~~Network 기초 정리~~
+
+3/2023 - 
 
 #### Now I'm studying,
 
@@ -82,9 +86,7 @@ Computer Structure 자료 제작
 
 ~~OS 기초 정리 완료 (1 month)~~
 
-OS 실습 완료 (2 months)
-
-Network 기초 정리 완료 (1 month)
+~~Network 기초 정리 완료 (1 month)~~
 
 
 
