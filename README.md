@@ -44,13 +44,13 @@
 
 2/2024 - (완)~~Network 기초 정리~~
 
-3/2024 - 
+3/2024 - Computer Structure 자료, OS 심화
 
 #### Now I'm studying,
 
 C : C
 
-Computer : Computer Structure, Algorithm
+Computer : Computer Structure, OS, Network
 
 #### Especially,
 
@@ -62,9 +62,9 @@ Computer - Computer Structure
 
 5월 중순: ~~Circuit 완강~~, ~~Hardware/System 시작~~, Javascript 진행(시간 날 때)
 
-6월 말: Circuit 정리 완료
+6월 말: ~~Circuit 정리 완료~~
 
-7월 말: Hardware/System 정리 완료
+7월 말: ~~Hardware/System 정리 완료~~
 
 8월 중순: System 실습 완료
 
