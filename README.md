@@ -46,6 +46,8 @@
 
 3/2024 - Computer Structure 자료, OS 심화
 
+4/2024 - Computer Structure 자료
+
 #### Now I'm studying,
 
 C : C
