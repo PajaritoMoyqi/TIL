@@ -48,6 +48,8 @@
 
 4/2024 - Computer Structure 자료
 
+5/2024 - Computer Structure 자료
+
 #### Now I'm studying,
 
 C : C
