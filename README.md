@@ -8,7 +8,7 @@
 
 타인도 볼만한 글로 정리하는 작업은 글쓰기용 비공개 repo에서 이루어지며,
 
-해당 글들은 완성 후 리뷰가 끝나면 **제 [개인 블로그](https://pp-blog.com, "작은새 블로그")에 올라갑니다.**
+해당 글들은 완성 후 리뷰가 끝나면 **제 [개인 블로그](https://moyqi.com "moyqi 블로그")에 올라갑니다.**
 
 ***
 
@@ -48,13 +48,9 @@
 
 4/2024 - Computer Structure 자료
 
-5/2024 - Computer Structure 자료
-
 #### Now I'm studying,
 
-C : C
-
-Computer : Computer Structure, OS, Network
+Computer : Computer Structure, Network
 
 #### Especially,
 
@@ -96,6 +92,10 @@ Computer Structure 자료 제작
 
 ### 메모
 
+#### 2023
+
 C와 알고리즘이 비중 높게 끼어들어버렸다...
 
 오른손 만성 염증 치료로 인하여 3주 정도를 거의 아무것도 하지 못했다... 슬프다...
+
+#### 2024
