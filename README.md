@@ -44,9 +44,9 @@
 
 2/2024 - (완)~~Network 기초 정리~~
 
-3/2024 - Computer Structure 자료, OS 심화
+3/2024 - Computer Structure 자료, (완)~~OS 심화~~
 
-4/2024 - Computer Structure 자료
+4/2024 - Computer Structure 자료, (완)~~OS 심화~~
 
 #### Now I'm studying,
 
