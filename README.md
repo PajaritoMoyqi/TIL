@@ -48,17 +48,17 @@
 
 4/2024 - Computer Structure 자료, (완)~~OS 심화~~
 
-8/2024 - Computer Structure 자료, 알고리즘 자료, C 자료
+8/2024 - Computer Structure 자료, (완)~~알고리즘 자료~~, (완)~~C 자료~~
 
-9/2024 - Computer Structure 자료, 알고리즘 자료, C 자료
+9/2024 - Computer Structure 자료, (완)~~알고리즘 자료~~, (완)~~C 자료~~
 
-#### Now I'm studying,
+#### Now I'm studying(doing),
 
-Computer : Computer Structure, Network
+Essay enhancement(CS, Algorithm, C)
 
 #### Especially,
 
-Computer - Computer Structure
+Essay enhancement(CS, Algorithm, C)
 
 ***
 
