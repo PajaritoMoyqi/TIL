@@ -44,21 +44,21 @@
 
 2/2024 - (완)~~Network 기초 정리~~
 
-3/2024 - Computer Structure 자료, (완)~~OS 심화~~
+3/2024 - (완)~~Computer Structure 자료~~, (완)~~OS 심화~~
 
-4/2024 - Computer Structure 자료, (완)~~OS 심화~~
+4/2024 - (완)~~Computer Structure 자료~~, (완)~~OS 심화~~
 
-8/2024 - Computer Structure 자료, (완)~~알고리즘 자료~~, (완)~~C 자료~~
+8/2024 - (완)~~Computer Structure 자료~~, (완)~~알고리즘 자료~~, (완)~~C 자료~~
 
-9/2024 - Computer Structure 자료, (완)~~알고리즘 자료~~, (완)~~C 자료~~
+9/2024 - (완)~~Computer Structure 자료~~, (완)~~알고리즘 자료~~, (완)~~C 자료~~, Circuit 자료
 
 #### Now I'm studying(doing),
 
-Essay enhancement(CS, Algorithm, C)
+Essay enhancement(CS, Algorithm, C, Circuit)
 
 #### Especially,
 
-Essay enhancement(CS, Algorithm, C)
+Essay enhancement(Circuit)
 
 ***
 
@@ -86,7 +86,7 @@ Essay enhancement(CS, Algorithm, C)
 
 1월-3월 : ~~Computer Structure 정리 완료~~
 
-Computer Structure 자료 제작
+Computer Structure 자료 제작(CS, Algorithm, C, Circuit, Logic, Semiconductor, OS, Network, Ben Eater)
 
 ~~OS 기초 정리 완료 (1 month)~~
 
