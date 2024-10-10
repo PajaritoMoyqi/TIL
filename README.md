@@ -50,13 +50,13 @@
 
 8/2024 - (완)~~Computer Structure 자료~~, (완)~~알고리즘 자료~~, (완)~~C 자료~~
 
-9/2024 - (완)~~Computer Structure 자료~~, (완)~~알고리즘 자료~~, (완)~~C 자료~~, Circuit 자료
+9/2024 - (완)~~Computer Structure 자료~~, (완)~~알고리즘 자료~~, (완)~~C 자료~~, (완)~~Circuit 자료~~
 
-10/2024 - Circuit 자료
+10/2024 - (완)~~Circuit 자료~~, Semiconductor 자료
 
 #### Now I'm studying(doing),
 
-Essay enhancement(Algorithm, C, CS, Circuit)
+Essay enhancement(C, Algorithm, CS, Circuit)
 
 #### Especially,
 
