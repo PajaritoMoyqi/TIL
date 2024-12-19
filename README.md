@@ -54,13 +54,15 @@
 
 10/2024 - (완)~~Circuit 자료~~, Semiconductor 자료
 
+12/2024 - Semiconductor 자료
+
 #### Now I'm studying(doing),
 
-Essay enhancement(C, Algorithm, CS, Circuit)
+Essay enhancement(C, Algorithm, CS, Circuit, Semiconductor)
 
 #### Especially,
 
-Essay enhancement(Circuit)
+Essay enhancement(Semiconductor)
 
 ***
 
