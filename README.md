@@ -2,9 +2,7 @@
 
 이 repo는 github projects, issues, milestones 등을 활용하여 **제 공부를 tracking**하는 데에 목적을 두고 만들었습니다.
 
-따라서 **README.md**에는 제가 작년 11월 경부터 공부하기 시작한 것들의 개괄들을 적어나갈 것입니다.
-
-[**github issue**](https://github.com/PajaritoMoyqi/TIL/issues) 및 [**project**](https://github.com/users/PajaritoMoyqi/projects/6)를 통해 상세한 공부 계획을 기록해나갈 계획입니다.
+따라서 **README.md**에는 제가 2022년 11월 경부터 공부하기 시작한 것들의 개괄들을 적어나갈 것입니다.
 
 타인도 볼만한 글로 정리하는 작업은 글쓰기용 비공개 repo에서 이루어지며,
 
@@ -55,6 +53,8 @@
 10/2024 - (완)~~Circuit 자료~~, Semiconductor 자료
 
 12/2024 - Semiconductor 자료
+
+1/2025 - Semiconductor 자료
 
 #### Now I'm studying(doing),
 
@@ -107,3 +107,5 @@ C와 알고리즘이 비중 높게 끼어들어버렸다...
 오른손 만성 염증 치료로 인하여 3주 정도를 거의 아무것도 하지 못했다... 슬프다...
 
 #### 2024
+
+#### 2025
