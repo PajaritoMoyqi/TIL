@@ -50,19 +50,19 @@
 
 9/2024 - (완)~~Computer Structure 자료~~, (완)~~알고리즘 자료~~, (완)~~C 자료~~, (완)~~Circuit 자료~~
 
-10/2024 - (완)~~Circuit 자료~~, Semiconductor 자료
+10/2024 - (완)~~Circuit 자료~~, (완)~~Semiconductor 자료~~
 
-12/2024 - Semiconductor 자료
+12/2024 - (완)~~Semiconductor 자료~~
 
-1/2025 - Semiconductor 자료
+1/2025 - (완)~~Semiconductor 자료~~, Logic 자료
 
-#### Now I'm studying(doing),
+#### Now I'm studying(doing)
 
-Essay enhancement(C, Algorithm, CS, Circuit, Semiconductor)
+Essay enhancement(C, Algorithm, CS, Circuit, Semiconductor, Logic)
 
-#### Especially,
+#### Especially
 
-Essay enhancement(Semiconductor)
+Essay enhancement(Logic)
 
 ***
 
