@@ -54,15 +54,15 @@
 
 12/2024 - (완)~~Semiconductor 자료~~
 
-1/2025 - (완)~~Semiconductor 자료~~, Logic 자료
+1/2025 - (완)~~Semiconductor 자료~~, (완)~~Logic 자료~~, OS 자료
 
 #### Now I'm studying(doing)
 
-Essay enhancement(C, Algorithm, CS, Circuit, Semiconductor, Logic)
+Essay enhancement(C, Algorithm, CS, Circuit, Semiconductor, Logic, OS)
 
 #### Especially
 
-Essay enhancement(Logic)
+Essay enhancement(OS)
 
 ***
 
