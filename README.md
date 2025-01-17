@@ -54,7 +54,7 @@
 
 12/2024 - (완)~~Semiconductor 자료~~
 
-1/2025 - (완)~~Semiconductor 자료~~, (완)~~Logic 자료~~, OS 자료
+1/2025 - (완)~~Semiconductor 자료~~, (완)~~Logic 자료~~, (완)~~OS 자료~~
 
 #### Now I'm studying(doing)
 
