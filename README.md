@@ -56,15 +56,15 @@
 
 1/2025 - (완)~~Semiconductor 자료~~, (완)~~Logic 자료~~, (완)~~OS 자료~~
 
-2/2025 - Network 자료
+2/2025 - (완)~~Network 자료~~
 
 #### Now I'm studying(doing)
 
-Essay enhancement(C, Algorithm, CS, Circuit, Semiconductor, Logic, OS, Network)
+- 
 
 #### Especially
 
-Essay enhancement(Network)
+- 
 
 ***
 
